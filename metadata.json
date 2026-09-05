@@ -1,0 +1,6 @@
+{
+  "name": "AgriCalc",
+  "description": "Full-featured offline-first agricultural calculator for field measurement, spraying calibration, soil NPK balancing, crop yield estimation, and irrigation hydraulics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
